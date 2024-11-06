@@ -1,2 +1,2 @@
 # ABOUT_ME
-brief self introduction about myself.
+Brief self introduction about myself.
